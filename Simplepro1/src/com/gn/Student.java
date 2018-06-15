@@ -8,7 +8,7 @@ class Student {
 	public Student(String name, int rollno) {
 		super();
 		this.name = name;
-		this.rollno = rollno;
+		this.rollno = rollno;//
 	}
 
 
